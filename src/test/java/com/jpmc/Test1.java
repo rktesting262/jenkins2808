@@ -30,6 +30,8 @@ public class Test1 {
 		driver.get("https://gmail.com");
 		Thread.sleep(500)	;
 		System.out.println("hi rk");
+		System.out.println("hi rk3");
+		
 		
 		/*
 		//driver.get("https://markets-uat.jpmorgan.com/legacyLogin");  
